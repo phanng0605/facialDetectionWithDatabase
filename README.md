@@ -67,16 +67,14 @@ pip install -r requirements.txt
 
 ### Project Overview
 This project includes the following files and directories:
-
-AddDataToDatabase.py
-EncodeFile.p
-EncodeGenerator.py
-EncodingList.p
-README.md
-facerecognitionrealtime-746da-firebase-adminsdk-d6luq-ccd6437c55.json
-main.py
-tempCodeRunnerFile.py
-LICENSE: MIT License file for the project.
+* AddDataToDatabase.py
+* EncodeFile.p
+* EncodeGenerator.py
+* EncodingList.p
+* README.md
+* facerecognitionrealtime-746da-firebase-adminsdk-d6luq-ccd6437c55.json
+* main.py
+* tempCodeRunnerFile.py
 
 ### Usage
 Once you have installed the dependencies and set up the project, you can run the web application locally:
