@@ -18,7 +18,10 @@ This is my project showcasing Computer Vision application: "Checking attendance"
 To get started, you can follow these steps to set up the project on your local machine:
 
 ### Prerequisites
-
+- To install requirements
+```
+pip install requirement.txt
+```
 - Python 3.6 or higher installed on your system.
 - Git installed on your system.
 
