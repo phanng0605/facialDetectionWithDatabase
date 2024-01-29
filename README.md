@@ -6,7 +6,6 @@ This is my project showcasing Computer Vision application: "Checking attendance"
 - [Installation](#installation)
 - [Project Overview](#project-overview)
 - [Usage](#usage)
-- [License](#license)
 
 **Functionaility:**
 1. Can count attendance of preloaded student and recognise face
